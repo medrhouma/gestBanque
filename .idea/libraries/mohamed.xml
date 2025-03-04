@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="mohamed">
+    <CLASSES>
+      <root url="file://$USER_HOME$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.vscode/extensions/oracle.oracle-java-23.1.0/nbcode/java/scripts" />
+      <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1/templates/invisible-project/src" />
+      <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-maven-0.44.0/resources/maven-wrapper/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/../ExBanque/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$USER_HOME$/Downloads/ACT09/SysReVol/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/ACT13/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/Act09/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/Exeption/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/IO/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/Interface/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/Scanner/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/StockMagasn/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/act5/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/actt09/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/compteRendue/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/excepp/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/heritage/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/illu/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/illustration/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/pp/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/proj_tp6/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/rapeljee/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/tp6/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/tp8/src" />
+    </SOURCES>
+  </library>
+</component>
